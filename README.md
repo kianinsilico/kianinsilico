@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kian</h1>
 <h3 align="center">A passionate bioinformatics student at the university of Bologna</h3>
 
-<p align="left"> <a href="https://twitter.com/kianoushkeshani" target="blank"><img src="https://img.shields.io/twitter/follow/kianoushkeshani?logo=twitter&style=for-the-badge" alt="kianoushkeshani" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
